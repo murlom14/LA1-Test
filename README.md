@@ -3,4 +3,4 @@
 **Teilnehmer:**
 Nebel, Mandl, Muri, Platzer, ...  
 
-[Markdown Github]https://guides.github.com/features/mastering-markdown/
+[Markdown Github](https://guides.github.com/features/mastering-markdown/)
